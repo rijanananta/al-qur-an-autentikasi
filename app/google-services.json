@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496736404975",
+    "project_id": "device-streaming-ec2d4185",
+    "storage_bucket": "device-streaming-ec2d4185.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496736404975:android:1491810ed04c50226ae21a",
+        "android_client_info": {
+          "package_name": "com.example.alquranapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496736404975-gbj9dqp657thlunmfef7gim35tklnsp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alquranapp",
+            "certificate_hash": "6ef83f7dae7428e6bcdccd13758adf8240ea8fba"
+          }
+        },
+        {
+          "client_id": "496736404975-hah9adq6823bdthkh492hcuamr5gkrmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbET419whue7PtMacJhZe1xt8iW4qIcZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496736404975-hah9adq6823bdthkh492hcuamr5gkrmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
